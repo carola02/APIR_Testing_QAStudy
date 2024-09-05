@@ -17,5 +17,5 @@ A su vez, comprendí la importancia de tener un proceso claro de cara al usuario
 * Para más detalles sobre la lista de casos de prueba: https://github.com/carola02/Urban_Grosers_API_Testing/blob/main/Urban-routes_PruebasAPI_CorreccionesVF1.xlsx
 
 <div id="header" align="center">
-  <img decoding="async" src="Sprint4.png" width="1000"/>
+  <img decoding="async" src="Sprint4_1.png" width="1000"/>
 </div>
